@@ -8,7 +8,7 @@ go get github.com/dentot/SEOMozAPIGolang
 
 Usage:
 
-	urls := []string{"http://padebuen.com", "http://amway.com"}
+	urls := []string{"http://google.com", "http://yahoo.com"}
 
 	var cols uint64 = MozApi.URL_METRICS_PAGE_AUTHORITY | MozApi.URL_METRICS_DOMAIN_AUTHORITY
 
